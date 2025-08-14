@@ -1,0 +1,4 @@
+# Ignore generated DLLs and executables
+*.dll
+*.exe
+*.pdb
